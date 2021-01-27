@@ -12,3 +12,5 @@ The Abstractive Approach
 The Abstraction approach aims to produce a summary by interpreting the text using advanced natural language techniques to generate a new, shorter text – parts of which may not appear in the original document, which conveys the most information.
 
 In this article, I will be using the extractive approach to summarize text using Machine Learning and Python. I will use the TextRank algorithm which is an extractive and unsupervised machine learning algorithm for text summarization.
+
+glove dataset link:-https://www.kaggle.com/danielwillgeorge/glove6b100dtxt?select=glove.6B.100d.txt
